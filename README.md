@@ -13,7 +13,9 @@ Prepare a code using this library by:
 Compile a code using this library by:
 
   gcc -c 13e_string.c
+  
   gcc -c test.c
+  
   gcc -o test test.o 13e_string.o
 
 Then run the code: ./test
