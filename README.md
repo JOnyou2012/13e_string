@@ -1,5 +1,5 @@
 # 13e_string
-Recreation of basic string.h functions for C. Can be used without including string.h.
+Simple recreation of basic string.h functions for C. Can be used without including string.h.
 
 - Assume gcc is installed
 - Assume code will be named test.c
